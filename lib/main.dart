@@ -35,7 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Text(
-                'Welcome, Nadia',
+                'Welcome, Benny',
                 style: TextStyle(
                   fontFamily: 'varela',
                     fontSize: 30.0,
