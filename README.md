@@ -1,4 +1,4 @@
 # coffeshopUI
  
-<img src ="order1.png">
-<img src ="order2.png">
+<img src ="assets/order1.png">
+<img src ="assets/order2.png">
